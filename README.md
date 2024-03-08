@@ -15,7 +15,7 @@ Esse é um projeto bem simples para poder treinar e estudar a biblioteca do PyGa
 # Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir Issues ou enviar pull requests.
 
-## Instalação
+# Instalação
 Certifique-se de ter o Python e o Pygame instalados.
 ```bash
 pip install pygame
