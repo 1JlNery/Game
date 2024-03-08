@@ -13,7 +13,7 @@ Esse é um projeto bem simples para poder treinar e estudar a biblioteca do PyGa
 - Desvie dos inimigos para sobreviver.
 
 # Contribuição
-Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou enviar pull requests.
+Contribuições são bem-vindas! Sinta-se à vontade para abrir Issues ou enviar pull requests.
 
 ## Instalação
 Certifique-se de ter o Python e o Pygame instalados.
